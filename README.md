@@ -43,7 +43,9 @@
 | X | Y | Z |
 | A | B | C |
 
+:kissing:
 
+$$\nabla X \vec{E} = -\dfrac\{\partial \vec{B}}{\partial{t}}$$
 
 
 
