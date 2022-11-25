@@ -3,7 +3,7 @@
  * Item 1
  * Item 2
  * Item 3
- 1. Item 1
+ 1. Item 1https://pt.wikipedia.org/wiki/Markdown
  2. Item 2
  3. Item 3
 
@@ -26,3 +26,27 @@
 #### Título Nível 4
 ##### Título Nível 5
 ###### Título Nível 6
+
+
+| coluna 1 | coluna 2 | coluna 3 |
+| --- | --- | --- |
+| X | Y | Z |
+| A | B | C |
+
+| coluna 1 | coluna 2 | coluna 3 |
+| ---: | ---: | ---: |
+| X | Y | Z |
+| A | B | C |
+
+| coluna 1 | coluna 2 | coluna 3 |
+| :---: | :---: | :---: |
+| X | Y | Z |
+| A | B | C |
+
+
+
+
+
+
+
+
