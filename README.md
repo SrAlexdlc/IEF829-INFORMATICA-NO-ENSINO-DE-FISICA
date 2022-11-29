@@ -13,7 +13,10 @@
  * Item 3
  1. Item 1https://pt.wikipedia.org/wiki/Markdown
  2. Item 2
- 3. Item 3
+ 3. Item 3 [^2]
+
+[^2]:HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos da Física vol 1, 4a edição. Rio de Janeiro, LTC-Livros Técnicos e Científicos SA Halliday, D., Resnick, R., Krane, KS, 1996.
+  
 
 - [ ] Tarefa A
 - [X] Tarefa B
