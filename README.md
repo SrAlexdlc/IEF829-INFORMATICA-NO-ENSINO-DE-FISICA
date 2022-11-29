@@ -46,7 +46,12 @@
 :kissing:
 
 $$\nabla X \vec{E} = -\dfrac\{\partial \vec{B}}{\partial{t}}$$
-$\nabla X \vec{E} = -\dfrac\{\partial \vec{B}}{\partial{t}}$
+$\nabla X \vec{E} = -\dfrac\{\partial \vec{B}}{\partial{t}}$![1097491](https://user-images.githubusercontent.com/118854926/204638881-749e0e5e-5db3-4454-8289-62c4b2556825.jpg)
+
+
+
+
+
 
 
 
