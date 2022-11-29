@@ -1,5 +1,13 @@
 # Markdown
-  _Instruções de formatações “explícitas”_. __Em Markdown as formatações__ ***são muito mais sutis***, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText.  nstruções de formatações “explícitas”. Em Markdown as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser $\textcolor{pink}{\text{baseada em linguagens}}$ de marcação anteriores, como setext, Textile e reStructuredText. Instruções de formatações “explícitas”. Em Markdown as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText.  nstruções de formatações “explícitas”. Em [Markdown](https://pt.wikipedia.org/wiki/Markdown) as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText. Instruções de formatações “explícitas”. <https://pt.wikipedia.org/wiki/Markdown>
+  _Instruções de formatações “explícitas”_. __Em Markdown as formatações__ ***são muito mais sutis***, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText.  nstruções de formatações “explícitas”. Em Markdown as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser $\textcolor{pink}{\text{baseada em linguagens}}$ de marcação anteriores, como setext, Textile e reStructuredText. Instruções de formatações “explícitas”. Em Markdown as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText.  nstruções de formatações “explícitas”. Em [Markdown](https://pt.wikipedia.org/wiki/Markdown) as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText. Instruções de formatações “explícitas”. <https://pt.wikipedia.org/wiki/Markdown>. [^1]
+  
+[^1]:HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos da Física vol 1, 4a edição. Rio de Janeiro, LTC-Livros Técnicos e Científicos SA Halliday, D., Resnick, R., Krane, KS, 1996.
+  
+  
+  
+  
+  
+  
  * Item 1
  * Item 2
  * Item 3
@@ -13,7 +21,7 @@
   
   
   
-  >_Instruções de formatações “explícitas”_. __Em Markdown as formatações__ ***são muito mais sutis***, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText.  nstruções de formatações “explícitas”. Em Markdown as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText. Instruções de formatações “explícitas”. Em Markdown as formatações são muito mais sutis, essa inspira-se nas convenções existentes para marcar um texto simples ou e-mail, apesar de ser baseada em linguagens de marcação anteriores, como setext, Textile e reStructuredText
+ ![image](https://user-images.githubusercontent.com/118854926/204639558-1dc10eeb-ee33-44cd-a9d0-59ff5f524a38.png)
   
   
   
